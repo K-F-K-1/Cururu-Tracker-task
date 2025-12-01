@@ -8,14 +8,13 @@ void tarefas()
     cout<< "Deu certo eu acho" ;
 
 }
-
 int main()
 {
     string banana;
     int entrada;
-    //char entrada ;
-
    
+
+   cout <<"roquin hou";
     ifstream ASCII("Tenacious-Big-Wallet.txt") ;
     cout<<"»»——⍟——««»»——⍟——««»»——⍟——««»»——⍟——««Oʟᴀ́ ᴄᴀᴘɪᴛᴀ̃ᴏ. O ǫᴜᴇ ᴛᴇᴍᴏs ᴘʀᴀ ʜᴏᴊᴇ ?»——⍟——««»»——⍟——««»»——⍟——««»»——⍟——««"<<endl;
     if (ASCII.is_open()) 
