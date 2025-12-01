@@ -5,7 +5,7 @@ using namespace std;
 void tarefas()
 {
     ofstream nason("Crystal-Lake.json");
-    cout<< "Deu certo eu acho" ;
+    
 
 }
 int main()
